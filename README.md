@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @allenkunju
+- 👋 Hi, I’m @allen-joseph
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning microservices
 - 💞️ I’m looking to collaborate on ...
