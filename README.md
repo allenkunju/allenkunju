@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning microservices
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +49 1516 3122454
 
 <!---
 allenkunju/allenkunju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
